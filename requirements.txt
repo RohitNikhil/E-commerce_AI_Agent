@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+matplotlib
+langchain
+openai
+streamlit
+google-generativeai
+plotly
